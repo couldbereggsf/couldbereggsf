@@ -6,7 +6,7 @@ I believe in the power of clean, efficient code to solve complex problems. My fo
 
 Let's connect and build something remarkable.
 
-<# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on refining a secure, multi-cloud SaaS architecture and developing open-source tools to bridge financial literacy and technology.<br><br>👯 I’m looking to collaborate on innovative Java-based open-source projects, particularly those involving DevSecOps practices, cloud-native development, or financial technology (FinTech).<br><br>🤝 I’m looking for help with advancing my expertise in cloud security frameworks and exploring best practices for large-scale data migration across SAP, Oracle, and Azure environments.<br><br>🌱 I’m currently learning advanced Kubernetes orchestration and deepening my knowledge of AWS serverless technologies to build more efficient and scalable systems.<br><br>💬 Ask me about Java backend development, database optimization strategies, integrating security into the SDLC, or my experience building a freelance development business.<br><br>⚡ Fun fact: I once automated a complex, manual data entry process for a client, saving them over 20 hours of work per week—which they now use to focus on strategic financial analysis.
 
 
