@@ -16,18 +16,16 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=couldbereggsf&theme=github_dark&hide_border=true&cache_seconds=86400" alt="couldbereggsf's GitHub Streak" width="49%" />
 </p>
-
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=couldbereggsf&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Reagan Fwamba's GitHub Trophies" />
 </p>
-
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.demo.ashutoshhathidara.com/graph?username=couldbereggsf&theme=github_dark&radius=10" alt="couldbereggsf's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=couldbereggsf&theme=github_dark&radius=10" alt="couldbereggsf's Activity Graph" />
 </p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
-<p align="center">
-  <img src="./3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
 
 ## Software & Stack
 
