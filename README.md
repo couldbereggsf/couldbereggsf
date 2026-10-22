@@ -20,7 +20,7 @@
   <img src="https://trophy.ryglcloud.net/?username=couldbereggsf&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Reagan Fwamba's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=couldbereggsf&theme=github_dark&radius=10" alt="couldbereggsf's Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=couldbereggsf&theme=github_dark" alt="Activity Summary" width="100%" />
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
