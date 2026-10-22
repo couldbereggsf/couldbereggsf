@@ -1,10 +1,10 @@
 ![Header Banner](https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&section=header&reversal=true&text=Reagan+Fwamba&textBg=false&fontColor=%23283618&fontSize=70&fontAlign=50&fontAlignY=46&animation=twinkling&rotate=0&stroke=%23606C38&strokeWidth=0&desc=Building+secure%2C+scalable+systems+that+solve+real+business+problems.&descSize=18&descAlign=50&descAlignY=72)
 
-## About Me
+## Lounge
 - Halo👋🏿, Willkommen in meiner digitalen Werkstatt. Ich bin ein ergebnisorientierter Softwareentwickler.
 - With 5+ years in software development, I've helped businesses transform their operations through secure application development, cloud migration strategies, and high-performance systems architecture.
 
-## My Focus Areas
+## Expert In
 - Security Cloud Advocate
 - Financial Tech Builder
 - Java Specialist
@@ -29,7 +29,7 @@
   <img src="./3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
 
-## Languages & Tools
+## Software & Stack
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -79,7 +79,7 @@
 <br/>
 
 
-## Connect with Me
+## Make It Personal W/ Me
 <p align="center">
   <a href="https://www.linkedin.com/in/reagan-fwamba">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
